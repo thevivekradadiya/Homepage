@@ -12,6 +12,8 @@ Skills: Business Analysis | Data Science | Python (Programming Language) | Machi
 
 🔭 I’m currently working on Sales Data Analysis Project <br> 🌱 I’m currently learning Master of Science in Data Science <br> 💬 Ask me about Business Analysis, Data Science, Python, Machine Learning, Data Analytics, and Mathematics. <br> 📫 How to reach me: vivekradadiya9099@gmail.com <br> ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile.
 
+![GitHub metrics](https://metrics.lecoq.io/thevivekradadiya)  
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thevivekradadiya&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
