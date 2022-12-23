@@ -8,8 +8,9 @@ I'm Vivek from India,  and I do content on Business Analysis and Data Science. I
 Skills: Business Analysis | Data Science | Python (Programming Language) | Machine Learning | Theano (Robust Python Library) | Data Visualization | Deep Learning | Business Process Modelling (BPM) | Business Requirements Document (BRD) | Product Requirements Document (PRD) | MOST (Mission, Objectives, Strategies, and Tactics) Analysis | SWOT analysis | Customer Relationship Management (CRM)
 
 # 💫 About Me:
-![Profile views](https://gpvc.arturio.dev/thevivekradadiya)
-●🔭 I’m currently working on Sales Data Analysis Project <br>● 🌱 I’m currently learning Master of Science in Data Science <br>● 💬 Ask me about Business Analysis, Data Science, Python, Machine Learning, Data Analytics, and Mathematics. <br>● 📫 How to reach me: vivekradadiya9099@gmail.com <br>● ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile.
+![Profile views](https://gpvc.arturio.dev/thevivekradadiya) 
+
+🔭 I’m currently working on Sales Data Analysis Project <br> 🌱 I’m currently learning Master of Science in Data Science <br> 💬 Ask me about Business Analysis, Data Science, Python, Machine Learning, Data Analytics, and Mathematics. <br> 📫 How to reach me: vivekradadiya9099@gmail.com <br> ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thevivekradadiya&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
