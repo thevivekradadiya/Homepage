@@ -1,4 +1,4 @@
-[![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/BA3.jpg)]
+![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/BA3.jpg)
 <H1 align="Center">Hi there 👋, Vivek Radadiya here</H1>
 <H3 align="Center">A passionate Business Analyst from India</H3>
 <img align="right" alt="Coding" width="300" src="https://www.hurix.com/wp-content/uploads/2022/09/business-analysis-1.jpg">
