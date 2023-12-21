@@ -6,7 +6,7 @@
 
 I'm Vivek from Boston, and I do content on Data Science, Data Engineering, Machine Learning, and Artificial Intelligence. I enjoy learning Programming Languages like Python, R, SQL, MATLAB, Latex, Natural Language Processing, and JavaScript using frameworks like NumPy, Pandas, Scikit-Learn, PyTorch, Seaborn, Matplotlib, Plotly, Keras, FastAPI, Docker, Theano, and Django.
 
-Skills: Python (Programming Language) | Machine Learning | Data Science | Data Engineering | Theano (Robust Python Library) | Data Visualization | Deep Learning | Business Process Modelling (BPM) | Business Requirements Document (BRD) | Product Requirements Document (PRD) | MOST (Mission, Objectives, Strategies, and Tactics) Analysis | SWOT analysis | Customer Relationship Management (CRM) | Business Analysis |
+Skills: Python (Programming Language) | Machine Learning | Data Science | Data Engineering | Theano (Robust Python Library) | Data Visualization (Tableau, PowerBI, Excel) | Deep Learning | Business Process Modelling (BPM) | Business Requirements Document (BRD) | Product Requirements Document (PRD) | MOST (Mission, Objectives, Strategies, and Tactics) Analysis | SWOT analysis | Customer Relationship Management (CRM) | Business Analysis | MySQL, PostgreSQL, Microsoft SQL Server, , NoSQL, MongoDB, Oracle, Cypher (CQL), Data Schema | Quicksight, Statistical Analysis
 
 # 💫 About Me:
 
