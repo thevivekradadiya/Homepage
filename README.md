@@ -1,4 +1,4 @@
-![MasterHead]([https://www.learntek.org/blog/wp-content/uploads/2018/05/BA3.jpg])
+![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/BA3.jpg)
 <H1 align="Center">Hi there 👋, Vivek Radadiya here</H1>
 <H3 align="Center">A passionate Business Intelligence Analyst and a Data Analyst</H3>
 <H3 align="Center">Looking for an Internship in the Data Industry such as a Data Science Internship or a Data Engineer Internship</H3>
