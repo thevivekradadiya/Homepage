@@ -10,7 +10,7 @@ Skills: Python (Programming Language) | Machine Learning | Data Science | Data E
 
 # 💫 About Me:
 
-🔭 I’m currently working on a Sales Data Analysis Project <br> 🌱 I’m currently studying for a Master of Science in Data Analytics Engineering at Northeastern University, Boston, MA USA <br> 💬 Ask me about Business Intelligence Analysis, Data Science, Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Engineering, Data Analytics, and Mathematics. <br> 📫 How to reach me: vivekradadiya9099@gmail.com <br> ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making others smile.
+🌱 I’m currently studying for a Master of Science in Data Analytics Engineering at Northeastern University, Boston, MA USA <br> 💬 Ask me about Business Intelligence Analysis, Data Science, Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Engineering, Data Analytics, and Mathematics. <br> 📫 How to reach me: vivekradadiya9099@gmail.com <br> ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making others smile.
 
 
 ## 🌐 Socials:
