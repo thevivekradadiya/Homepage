@@ -4,17 +4,13 @@
 <H3 align="Center">Looking for an Internship in the Data Industry such as a Data Science Internship or a Data Engineer Internship</H3>
 
 
-I'm Vivek from India,  and I do content on Business Analysis and Data Science. I really enjoy learning Programming Languages like Python, R, and JavaScript using frameworks like NumPy, Theano, and Django.
+I'm Vivek from Boston, and I do content on Data Science, Data Engineering, Machine Learning, and Artificial Intelligence. I enjoy learning Programming Languages like Python, R, SQL, MATLAB, Latex, Natural Language Processing, and JavaScript using frameworks like NumPy, Pandas, Scikit-Learn, PyTorch, Seaborn, Matplotlib, Plotly, Keras, FastAPI, Docker, Theano, and Django.
 
-Skills: Business Analysis | Data Science | Python (Programming Language) | Machine Learning | Theano (Robust Python Library) | Data Visualization | Deep Learning | Business Process Modelling (BPM) | Business Requirements Document (BRD) | Product Requirements Document (PRD) | MOST (Mission, Objectives, Strategies, and Tactics) Analysis | SWOT analysis | Customer Relationship Management (CRM)
+Skills: Python (Programming Language) | Machine Learning | Data Science | Data Engineering | Theano (Robust Python Library) | Data Visualization | Deep Learning | Business Process Modelling (BPM) | Business Requirements Document (BRD) | Product Requirements Document (PRD) | MOST (Mission, Objectives, Strategies, and Tactics) Analysis | SWOT analysis | Customer Relationship Management (CRM) | Business Analysis |
 
 # 💫 About Me:
-![Profile views](https://gpvc.arturio.dev/thevivekradadiya) 
 
-🔭 I’m currently working on Sales Data Analysis Project <br> 🌱 I’m currently learning Master of Science in Data Science <br> 💬 Ask me about Business Analysis, Data Science, Python, Machine Learning, Data Analytics, and Mathematics. <br> 📫 How to reach me: vivekradadiya9099@gmail.com <br> ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile.
-
-![GitHub metrics](https://metrics.lecoq.io/thevivekradadiya)  
-
+🔭 I’m currently working on a Sales Data Analysis Project <br> 🌱 I’m currently studying for a Master of Science in Data Analytics Engineering at Northeastern University, Boston, MA USA <br> 💬 Ask me about Business Intelligence Analysis, Data Science, Python, Machine Learning, Deep Learning, Artificial Intelligence, Data Engineering, Data Analytics, and Mathematics. <br> 📫 How to reach me: vivekradadiya9099@gmail.com <br> ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making others smile.
 
 
 ## 🌐 Socials:
