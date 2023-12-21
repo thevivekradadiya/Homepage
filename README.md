@@ -2,7 +2,7 @@
 <H1 align="Center">Hi there 👋, Vivek Radadiya here</H1>
 <H3 align="Center">A passionate Business Intelligence Analyst and a Data Analyst</H3>
 <H3 align="Center">Looking for an Internship in the Data Industry such as a Data Science Internship or a Data Engineer Internship</H3>
-<img align="right" alt="Coding" width="300" src="">
+
 
 I'm Vivek from India,  and I do content on Business Analysis and Data Science. I really enjoy learning Programming Languages like Python, R, and JavaScript using frameworks like NumPy, Theano, and Django.
 
